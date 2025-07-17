@@ -15,6 +15,9 @@ A menos que especificado diferentemente todos os Dados solicitados por este Apli
 Os Usuários que tiverem dúvidas a respeito de quais Dados Pessoais são obrigatórios estão convidados a entrar em contato com o Proprietário.
 Quaisquer usos de cookies – ou de outras ferramentas de rastreamento – por este Aplicativo ou pelos proprietários de serviços terceiros utilizados por este Aplicativo serão para a finalidade de fornecer os Serviços solicitados pelo Usuário, além das demais finalidades descritas no presente documento.
 
+Acesso à Localização
+Este Aplicativo pode coletar dados de localização do Usuário, como coordenadas geográficas, por meio de GPS, para verificar se o Usuário está nas dependências da instituição no momento do lançamento das aulas. A coleta dessas coordenadas ocorre somente quando o Usuário autoriza explicitamente, e é essencial para a realização dessa funcionalidade específica. O Usuário pode optar por desativar o acesso à localização nas configurações do seu dispositivo a qualquer momento. No entanto, ao desativar essa funcionalidade, o lançamento das aulas poderá ser impactado, já que a verificação da localização não será possível.
+
 Os Usuários ficam responsáveis por quaisquer Dados Pessoais de terceiros que forem obtidos, publicados ou compartilhados através deste Serviço (este Aplicativo).
 
 Modo e local de processamento dos Dados
